@@ -1,3 +1,3 @@
 # Shopping List App Challenge
 
-This repo contains starter files for the *Shopping List App* challenge in Thinkful's Front End Web Development course.
+One possible solution to the shopping list challenge from Thinkful's front end web development course.
