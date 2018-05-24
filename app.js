@@ -64,7 +64,7 @@ function renderList(state, listElement, itemDataAttr) {
 }
 
 
-// Event listeners
+// Event listeners solution
 
 function handleItemAdds(
   formElement, newItemIdentifier, itemDataAttr, listElement, state) {
